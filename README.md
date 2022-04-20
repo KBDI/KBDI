@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041-->
 <p align="center">
-  <h3 align="center">My name is Ilya Druzhinin</h3>
+  <h3 align="center">My name's Ilya</h3>
 </p>
 
 <p align="center">
