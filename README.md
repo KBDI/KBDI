@@ -4,6 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?background=FFFFFF00&lines=Web+programmer;JavaScript+developer;Vue.JS+developer;Node.JS+developer">
+  <img src="https://readme-typing-svg.herokuapp.com?background=FFFFFF00&center=true&vCenter=true&lines=Web+programmer;JavaScript+developer;Vue.JS+developer;Node.JS+developer">
 </p>
 <!-- markdownlint-enable MD033 -->
