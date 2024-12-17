@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?background=FFFFFF00&center=true&vCenter=true&lines=I%27m+web+programmer;I%27m+Golang.JS+developer;I%27m+Node.JS+developer;">
+  <img src="https://readme-typing-svg.herokuapp.com/?background=FFFFFF00&center=true&vCenter=true&lines=I%27m+web+programmer;I%27m+Golang+developer;I%27m+Node.JS+developer;">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/golang-%23007d9c.svg?style=for-the-badge&logo=go&logoColor=white">
