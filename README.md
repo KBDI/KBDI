@@ -4,13 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?background=FFFFFF00&center=true&vCenter=true&lines=I'm+web+programmer;I'm+JavaScript+developer;I'm+Vue.JS+developer;I'm+Node.JS+developer">
+  <img src="https://readme-typing-svg.herokuapp.com/?background=FFFFFF00&center=true&vCenter=true&lines=I%27m+web+programmer;I%27m+Golang.JS+developer;I%27m+Node.JS+developer;">
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/golang-%23007d9c.svg?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </p>
